@@ -1,8 +1,12 @@
-# INSTR4MT
+# INSTR3MT
 
 To Install:
 Use TI Connect CE or TI Connect to download INSTR3MT onto your TI-84+
-You will need a proper cable to do so
+Visit the Texas Instruments website to learn how to download programs onto your calculator
 
 How to Use:
 Read the manual provided
+
+Notes:
+This code *most likely* works with the TI-83+, but has not been tested on one
+Tuning may differ from device to device
